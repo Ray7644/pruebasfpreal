@@ -1,7 +1,7 @@
 '''
 Created on 17 oct 2024
 
-@author: juana
+@author: juan
 '''
 
 from lecturas.lecturas import contar_palabras, buscar_lineas, encontrar_palabras_unicas, longitud_promedio_lineas
@@ -32,5 +32,6 @@ def test4():
     promedio2 = longitud_promedio_lineas(fichero2)
     print(f'La longitud promedio de las líneas del fichero {fichero} es: {promedio}')
     print(f'La longitud promedio de las líneas del fichero {fichero2} es: {promedio2}')
+    
 if __name__ == '__main__':
-    test1()
+    test4()
