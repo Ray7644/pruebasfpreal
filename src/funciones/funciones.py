@@ -1,7 +1,7 @@
 '''
 Created on 3 oct 2024
 
-@author: juan
+@author: juana
 '''
 
 import math

@@ -1,7 +1,7 @@
 '''
 Created on 3 oct 2024
 
-@author: juan
+@author: juana
 '''
 from funciones.funciones import productorio, secuencia_geo, combinatorio, newton, stirling, f, f_prime
 

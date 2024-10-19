@@ -1,7 +1,5 @@
 from typing import Optional
 
-import math
-
 def contar_palabras(ruta_archivo, sep, cad):
         with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
             contenido = archivo.read()
